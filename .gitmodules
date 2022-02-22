@@ -1,0 +1,7 @@
+[submodule "src/msvc-wine"]
+	path = src/msvc-wine
+	url = git@github.com:falhumai96/msvc-wine
+	branch = msvc-wine-17
+[submodule "src/cccl"]
+	path = src/cccl
+	url = git@github.com:falhumai96/cccl
